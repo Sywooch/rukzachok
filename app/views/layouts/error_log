@@ -1,0 +1,1 @@
+[21-Feb-2015 06:13:43 UTC] PHP Fatal error:  Class 'app\assets\AppAsset' not found in /home/webplusn/public_html/yii2/views/layouts/main.php on line 11

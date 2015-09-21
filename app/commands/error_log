@@ -1,0 +1,2 @@
+[24-Feb-2015 05:19:12 UTC] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/webplusn/public_html/yii2/commands/HelloController.php on line 21
+[16-Mar-2015 00:50:55 UTC] PHP Fatal error:  Class 'yii\console\Controller' not found in /home/webplusn/public_html/yii2/commands/HelloController.php on line 21

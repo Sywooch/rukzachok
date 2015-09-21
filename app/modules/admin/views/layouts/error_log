@@ -1,0 +1,5 @@
+[22-Feb-2015 15:21:36 UTC] PHP Fatal error:  Class 'app\assets\AppAsset' not found in /home/webplusn/public_html/yii2/modules/admin/views/layouts/_main.php on line 11
+[22-Feb-2015 15:29:18 UTC] PHP Fatal error:  Class 'app\modules\admin\assets\AppAsset' not found in /home/webplusn/public_html/yii2/modules/admin/views/layouts/layout.php on line 11
+[23-Feb-2015 20:18:32 UTC] PHP Fatal error:  Using $this when not in object context in /home/webplusn/public_html/yii2/modules/admin/views/layouts/main.php on line 9
+[11-Mar-2015 09:19:45 UTC] PHP Fatal error:  Class 'app\modules\admin\assets\AppAsset' not found in /home/webplusn/public_html/yii2/modules/admin/views/layouts/layout.php on line 11
+[11-Mar-2015 09:19:48 UTC] PHP Fatal error:  Using $this when not in object context in /home/webplusn/public_html/yii2/modules/admin/views/layouts/main.php on line 9

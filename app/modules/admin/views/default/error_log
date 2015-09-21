@@ -1,0 +1,1 @@
+[21-Feb-2015 20:23:33 UTC] PHP Fatal error:  Using $this when not in object context in /home/webplusn/public_html/yii2/modules/admin/views/default/index.php on line 2

@@ -1,0 +1,3 @@
+[20-Feb-2015 11:27:43 UTC] PHP Fatal error:  Class 'Yii' not found in /home/webplusn/public_html/yii2/config/console.php on line 3
+[20-Feb-2015 11:28:24 UTC] PHP Notice:  Use of undefined constant YII_DEBUG - assumed 'YII_DEBUG' in /home/webplusn/public_html/yii2/config/web.php on line 51
+[20-Feb-2015 11:28:24 UTC] PHP Notice:  Use of undefined constant YII_ENV_DEV - assumed 'YII_ENV_DEV' in /home/webplusn/public_html/yii2/config/web.php on line 88

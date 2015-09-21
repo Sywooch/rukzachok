@@ -1,0 +1,1 @@
+[27-Mar-2015 09:17:46 UTC] PHP Fatal error:  Class 'yii\web\AssetBundle' not found in /home/webplusn/public_html/yii2/modules/admin/assets/AppAsset.php on line 17

@@ -1,0 +1,10 @@
+AddDefaultCharset WINDOWS-1251
+#php_value display_errors 1
+#php_value error_reporting 2047
+
+RewriteEngine on
+
+
+
+RewriteRule ^(.*)(date\.php|votebar|spam|\.css|uploaded|img|rating\.php|forum_comment\.php|js|admin|googlec87a9150150cf5d3.html)(.*)$	$1$2$3 [L]
+RewriteRule ^(.*)$	index.php [L]

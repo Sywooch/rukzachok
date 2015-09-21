@@ -1,0 +1,1 @@
+[24-Feb-2015 05:41:26 UTC] PHP Fatal error:  Class 'yii\base\Widget' not found in /home/webplusn/public_html/yii2/components/HelloWidget.php on line 7
